@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Current Projects
 
 * [AI聊天群](https://agents-group-chat.vercel.app/)
+* [DeepSearch AI 深度研究 支持图表](https://2026-03-28-unifuncs-clone.vercel.app/)
 * [large_model_projects](https://github.com/chesterwang/large_model_projects)
 * [chester-blog](https://github.com/chesterwang/chester-blog)
 * [algo-practice](https://github.com/chesterwang/algo-practice)
