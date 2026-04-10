@@ -17,14 +17,8 @@ Here are some ideas to get you started:
 
 ## Current Projects
 
-* [vibe-coding-practice](https://github.com/chesterwang/vibe-coding-practice)
+* [AI聊天群](https://agents-group-chat.vercel.app/)
 * [large_model_projects](https://github.com/chesterwang/large_model_projects)
-* [ian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-* [chesterwang](https://github.com/chesterwang/chesterwang)
-* [chester-paper-code](https://github.com/chesterwang/chester-paper-code)
-* [map-of-post-rock-data](https://github.com/chesterwang/map-of-post-rock-data)
-* [map-of-post-rock](https://github.com/chesterwang/map-of-post-rock)
-* [awesome-llm-apps](https://github.com/chesterwang/awesome-llm-apps)
 * [chester-blog](https://github.com/chesterwang/chester-blog)
-* [local-manus](https://github.com/chesterwang/local-manus)
 * [algo-practice](https://github.com/chesterwang/algo-practice)
+* [vibe-coding-practice](https://github.com/chesterwang/vibe-coding-practice)
